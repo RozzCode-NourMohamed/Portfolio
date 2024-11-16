@@ -132,7 +132,6 @@ body:not(.dark-theme) .toggle-btn {
     height: 150px;
     background-color: transparent;
     overflow: hidden;
-    position: relative;
 }
 .wave{
     position:absolute;
@@ -232,11 +231,7 @@ body:not(.dark-theme) .toggle-btn {
         padding-top: 20px;
         height: fit-content;
     }
-    .wave-container{
-        height: 110px;
-        position: relative;
-    }
     .wave{
-        background-size: 700px 80px;
+        background-size: 700px 100px;
     }
 }
