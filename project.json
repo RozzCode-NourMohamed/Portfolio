@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "title": "RozzCode | High-school Tap hack",
+      "ar-title" : "RozzCode | مشروع فك تابلت الثانوية العامة" ,
+      "description": "A powerful Python-based program designed to unlock and modify high school tablets. It runs seamlessly on computers with a sleek, user-friendly interface. A tool that helped me a lot, as I earned income in a short time. ",
+      "ar-description": "برنامج قوي مبني على بايثون، مصمم لتسهيل عمليه خروج تابلت الثانوية العامة من المنظومة. مبني علي كود بايثون بسيط بيشتغل علي كل اجهزة الكومبيوتر مع واجهه شيك وسهلة الاستخدام. أداة فرقت معايا كتير، وقدرت أكسب منها فلوس في وقت قصير جدًا",
+      "image": "projects/tap.jpg",
+      "src_code":"https://github.com/NOUR-MOHAMED153/HackTapv2.git"
+    },
+    {
+      "id": 2,
+      "title": "RozzCode | Youtube Downloader",
+      "ar-title" : "RozzCode | برنامج تحميل مقاطع من اليوتيوب" ,
+      "description": "A powerful Python-based program designed to Download videos and music from youtube. It runs seamlessly on computers with a sleek, user-friendly interface. A tool that helped me a lot to save more time. ",
+      "ar-description": "برنامج قوي مبني على بايثون، مصمم لتحميل الفيديوهات والموسيقى من اليوتيوب. بيشتغل بكل سلاسة على الكمبيوترات، وكمان واجهته أنيقة وسهلة الاستخدام. أداة ساعدتني جدًا في توفير وقتي بشكل كبير.",
+      "image": "projects/youtube-downloader.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/HackTapv2.git"
+    },
+    {
+      "id": 3,
+      "title": "RozzCode | Adidas Project",
+      "ar-title" : "RozzCode | واجهة بسيطة لاديداس" ,
+      "description": "A simple interface for Adidas. I was training on projects when I first learned website design.",
+      "ar-description": "واجهة بسيطة لشركة اديداس كنت بتدرب علي مشاريع في بداية تعلمي تصميم مواقع الويب .",
+      "image": "projects/adidas.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/Adidas-Project-interface.git"
+    },
+    {
+      "id": 4,
+      "title": "RozzCode | APPLE Project",
+      "ar-title" : "RozzCode | واجهة بسيطة لابل" ,
+      "description": "A simple interface for Apple . I was training on projects when I first learned website design.",
+      "ar-description": "واجهة بسيطة لشركة ابل كنت بتدرب علي مشاريع في بداية تعلمي تصميم مواقع الويب .",
+      "image": "projects/apple.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/APPLE-Project-interface.git"
+    },
+    {
+      "id": 5,
+      "title": "RozzCode | QR-generator",
+      "ar-title" : "RozzCode | مولد كيوار" ,
+      "description": "A tool based on Python, designed to generate QR-codes for any URL, image, or anything I need. It helped me greatly in saving my time.",
+      "ar-description": "اداة مبنية علي بايثون,  مصممة لتوليد كيوار  لاي عنوان او صورة او اي حاجه محتاجها , ساعدتني جدا في اني اوفر وقتي بشكل كبير",
+      "image": "projects/qr-generator.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/QR-generator.git"
+    },
+    {
+      "id": 6,
+      "title": "RozzCode | Warehouse management project ",
+      "ar-title" : "RozzCode | مشروع ادارة مخازن " ,
+      "description": "A project to manage and organize sales, know the available products, their prices, how many of them are left, and the date of addition. It is very useful for store owners to facilitate the buying and selling process.",
+      "ar-description": "مشروع لادارة المبيعات وتنظيمها ومعرفة المنتجات المتاحة واسعارها وكم تبقي منها وتاريخ الاضافة , مفيد جدا لاصحاب المحلات لتسهيل عملية البيع والشراء .",
+      "image": "projects/crud.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/Warehouse-management-project-cruds-.git"
+    },
+    {
+      "id": 7,
+      "title": "RozzCode | Login page ",
+      "ar-title" : "RozzCode | واجهة تسجيل دخول" ,
+      "description": "A simple login interface I created while working on a Facebook clone. Unfortunately, I couldn't finish it due to the demands of high school. However, the interface was complete and somewhat elegant, considering I was still at the beginning of my web design learning journey.",
+      "ar-description": "واجهة بسيطة لتسجيل الدخول , كنت عاملها لما كنت شغال علي نسخة من فيسبوك لكن للاسف مكملتش لظروف الثانوية , لكن الواجهة كانت مكتملة وانيقة نوعا ما بما اني كنت لسه في بداية تعلمي لتصميم المواقع",
+      "image": "projects/login.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/simple-login-page.git"
+    },
+    {
+      "id": 8,
+      "title": "RozzCode | ToDoList Project",
+      "ar-title" : "RozzCode | مشروع لتنظيم المهام" ,
+      "description": "A project for organizing daily recurring tasks, with features to delete, edit, and distinguish between tasks. It's a well-known concept, and I worked on it at the start of my Python learning journey. It’s very simple and doesn’t include a graphical interface, but it was a significant achievement for me at the time.",
+      "ar-description": " مشروع تنظيم المهام اليومية المتكررة, مع امكانية حذف وتعديل مهام والتمييز بينهم , معروف جدا وعملتو في بداية مشواري لتعلم بايثون , بسيط جدا وبدون واجهة رسومية بس كان يعتبر انجاز ليا في البداية",
+      "image": "projects/todolist.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/ToDoList.git"
+    },
+    {
+      "id": 9,
+      "title": "RozzCode | Coin Converter",
+      "ar-title" : "RozzCode | مشروع لتحويل العملات" ,
+      "description": "A simple Python-based project for currency conversion and price difference calculation. It’s very basic and doesn’t include a graphical interface, but it was a relatively good project at the beginning of my journey.",
+      "ar-description": "مشروع بسيط مبني علي بايثون للتحويل بين العملات وحساب فرق الاسعار , بسيط جدا بدون واجهة رسومية بس كان مشروع نوعا ما كويس في بداية مشواري . ",
+      "image": "projects/coin-converter.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/Coin-Converter.git"
+    },
+    {
+      "id": 10,
+      "title": "RozzCode | Clock&Stopwatch Project",
+      "ar-title" : "RozzCode | مشروع ساعة وعد تنازلي" ,
+      "description": "A simple Python-based project for a clock and stopwatch. It’s very basic and doesn’t include a graphical interface, but it was a relatively good project at the beginning of my journey.",
+      "ar-description": "مشروع بسيط مبني على بايثون لعمل ساعة و Stopwatch. المشروع بسيط جدًا ومفيهوش واجهة رسومية، لكنه كان يعتبر مشروع كويس بالنسبة ليا في بداية مشواري.",
+      "image": "projects/clock,timedown.jpg",
+      "src_code":"https://github.com/RozzCode-NourMohamed/Clock-Stopwatch-Project.git"
+    },
+    {
+      "id": 11,
+      "title": "RozzCode | RozzAI",
+      "ar-title" : "RozzCode |  RozzAI  " ,
+      "description": "This is a fully integrated AI project built on Python and Arduino. The project can perform many tasks, such as downloading any content from websites, setting alarms, taking notes, and reminding me of my appointments. It can also chat with me, make calls, and send WhatsApp messages. Moreover, it has the capability to control all home devices, like lights, air conditioning, and even doors and windows. The project is still under development, and I’m working on adding even more features. Insha’Allah, it will be my graduation project, and my goal is to use what I’ve learned to make life easier.",
+      "ar-description": "ده مشروع ذكاء اصطناعي متكامل مبني على بايثون وأردوينو. المشروع ده يقدر يعمل حاجات كتير زي إنه يحمل أي محتوى من أي موقع، يعمل منبهات، يكتب نوت، ويفكرني بمواعيدي كمان يقدر يدردش معايا، يعمل مكالمات، ويبعت رسائل واتساب. غير كده، عنده القدرة إنه يتحكم في كل أجهزة البيت زي الإضاءة، التكييف، وحتى الأبواب والشبابيك. ولسه شغال على تطويره عشان يقدر يعمل حاجات أكتر وأكتر. إن شاء الله هيكون مشروع تخرجي وهدفي اني استغل اللي انا اتعلمتو ف اني اسهل حياتي",
+      "image": "images/logo--.jpg",
+      "src_code":""
+    }
+  ]
